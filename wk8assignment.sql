@@ -1,5 +1,7 @@
 -- Week 8 Assignment Database: LibraryManagement
--- CREATE DATABASE LibraryManagement;
+
+-- CREATE DATABASE LibraryManagement
+CREATE DATABASE LibraryManagement;
 USE LibraryManagement;
 
 -- Create Authors Table
