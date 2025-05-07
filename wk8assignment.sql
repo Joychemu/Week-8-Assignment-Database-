@@ -53,6 +53,9 @@ CREATE TABLE Loans (
     FOREIGN KEY (BookID) REFERENCES Books(BookID)
 );
 
+
+
+
 -- INSERT INTO Authors Table
 INSERT INTO Authors (AuthorID, FirstName, LastName, DateOfBirth)
 VALUES (1, 'J.K. George', 'Chege', '1965-07-31');
